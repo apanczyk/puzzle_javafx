@@ -1,0 +1,35 @@
+Text {
+    -fx-font: 30px Tahoma;
+    -fx-fill: rgb(240,240,240);
+    -fx-stroke: grey;
+    -fx-stroke-width: 1;
+}
+
+Button {
+    -fx-background-color: #555555;
+    -fx-text-fill: white;
+    -fx-color: white;
+    -fx-border: none;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+}
+Button:hover{
+    -fx-background-color: #9d9d9d;
+    -fx-text-fill: white;
+    -fx-color: white;
+    -fx-border: none;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 16px;
+}
+
+.root {
+
+    -fx-background-color: #999999;
+    -fx-background-color: linear-gradient(#050505 , #414141);
+}

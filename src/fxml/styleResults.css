@@ -1,0 +1,9 @@
+Text {
+    -fx-font: 30px Tahoma;
+    -fx-fill: rgb(240,240,240);
+}
+
+
+.root2 {
+    -fx-background-color: #383838;
+}
